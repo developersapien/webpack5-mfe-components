@@ -1,0 +1,7 @@
+{
+  "exposeName": "example",
+  "exposes": {
+    "./ExampleIndex": "./src/components/Example",
+    "./Example2Index": "./src/components/Example2"
+  }
+}
